@@ -1,0 +1,96 @@
+repositories:
+
+  _externals/asf/1_8_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          asf/1_8_x
+    fetch-to-branch:  asf/1_8_x
+
+  _externals/asf/1_7_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          asf/1_7_x
+    fetch-to-branch:  asf/1_7_x
+
+
+  _externals/tortoisesvn/1_9_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          tortoisesvn/1_9_x
+    fetch-to-branch:  tortoisesvn/1_9_x
+
+  _externals/tortoisesvn/1_8_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          tortoisesvn/1_8_x
+    fetch-to-branch:  tortoisesvn/1_8_x
+
+  _externals/tortoisesvn/1_7_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          tortoisesvn/1_7_x
+    fetch-to-branch:  tortoisesvn/1_7_x
+
+
+  _externals/collabnet/1_9_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          collabnet/1_9_x
+    fetch-to-branch:  collabnet/1_9_x
+
+  _externals/collabnet/1_8_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          collabnet/1_8_x
+    fetch-to-branch:  collabnet/1_8_x
+
+  _externals/collabnet/1_7_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          collabnet/1_7_x
+    fetch-to-branch:  collabnet/1_7_x
+
+
+  _externals/sliksvn/1_9_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          sliksvn/1_9_x
+    fetch-to-branch:  sliksvn/1_9_x
+
+  _externals/sliksvn/1_8_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          sliksvn/1_8_x
+    fetch-to-branch:  sliksvn/1_8_x
+
+  _externals/sliksvn/1_7_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          sliksvn/1_7_x
+    fetch-to-branch:  sliksvn/1_7_x
+
+
+  _externals/cygwin/1_9_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          cygwin/1_9_x
+    fetch-to-branch:  cygwin/1_9_x
+
+  _externals/cygwin/1_8_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          cygwin/1_8_x
+    fetch-to-branch:  cygwin/1_8_x
+
+  _externals/cygwin/1_7_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          cygwin/1_7_x
+    fetch-to-branch:  cygwin/1_7_x
+
+
+  _externals/visualsvn/1_9_x:
+    type:             git
+    url:              https://github.com/andry81-3dparty/external-tools--svn
+    version:          visualsvn/1_9_x
+    fetch-to-branch:  visualsvn/1_9_x
