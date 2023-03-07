@@ -1,0 +1,16 @@
+# base_dir                                    | bin_dir
+_externals/asf/1_8_x/asf/win32                |1.8.17/bin
+_externals/asf/1_7_x/asf/win32                |1.7.22/bin
+_externals/tortoisesvn/1_9_x/tortoisesvn/win32|1.9.5.27581-1.9.5/bin
+_externals/tortoisesvn/1_8_x/tortoisesvn/win32|1.8.12.26645-1.8.14/bin
+_externals/tortoisesvn/1_7_x/tortoisesvn/win32|1.7.15.25753-1.7.18/bin
+_externals/collabnet/1_9_x/collabnet/win32    |1.9.5-1/bin
+_externals/collabnet/1_8_x/collabnet/win32    |1.8.17-1/bin
+_externals/collabnet/1_7_x/collabnet/win32    |1.7.19-1/bin
+_externals/sliksvn/1_9_x/sliksvn/win32        |1.9.5/bin
+_externals/sliksvn/1_8_x/sliksvn/win32        |1.8.17/bin
+_externals/sliksvn/1_7_x/sliksvn/win32        |1.7.22/bin
+_externals/cygwin/1_9_x/cygwin/win32          |1.9.5-1/bin
+_externals/cygwin/1_8_x/cygwin/win32          |1.8.17-1/bin
+_externals/cygwin/1_7_x/cygwin/win32          |1.7.14-1/bin
+_externals/visualsvn/1_9_x/visualsvn/win32    |1.9.5/bin

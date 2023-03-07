@@ -1,0 +1,4 @@
+2023.03.07:
+* new: changelog.txt: changelog details
+* new: README_EN.txt: readme details
+* new: versions.txt, test_version.bat: to test externals on execution
